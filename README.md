@@ -1,3 +1,4 @@
-**HI** Jonze
+Static Glitch Site Example
+==========================
 
-edit 5570
+For testing purposes 
