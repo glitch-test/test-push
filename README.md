@@ -1,3 +1,4 @@
-**HI** Jonze
+Static Glitch Site Example
+==========================
 
-edit 9429
+For testing purposes 
