@@ -1,2 +1,3 @@
-SECRET=some_secret_nobody_can_see
-VAR=these_values_will_not_be_exported
+**HI** Jonze
+
+edit 9698
