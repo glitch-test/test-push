@@ -1,3 +1,2 @@
-**HI** Jonze
-
-edit 5729
+SECRET=some_secret_nobody_can_see
+VAR=these_values_will_not_be_exported
