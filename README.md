@@ -1,4 +1,2 @@
-Static Glitch Site Example
-==========================
-
-For testing purposes 
+**HI** Jonze
+edit 5935
