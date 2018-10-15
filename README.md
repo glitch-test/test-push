@@ -1,2 +1,4 @@
-**HI** Jonze
-edit 38
+Static Glitch Site Example
+==========================
+
+For testing purposes 
