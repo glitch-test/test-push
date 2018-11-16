@@ -169,7 +169,6 @@ packages:
       node: '>= 0.6'
     resolution:
       integrity: sha1-i1VoC7S+KDoLW/TqLjhYC+HZMg0=
-      tarball: 'http://registry.npmjs.org/http-errors/-/http-errors-1.6.3.tgz'
   /iconv-lite/0.4.23:
     dependencies:
       safer-buffer: 2.1.2
